@@ -1,3 +1,10 @@
+# Custom Marlin 2.0.x - Sidewinder X1
+- Bigtreetech SKR v1.3
+- TMC2209 (UART Mode)
+- BABY STEPPING
+- BLTouch (ABL BILINEAR)
+- BTT TFT24 (REPRAP DISCOUNT SMART CONTROLLER)
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
